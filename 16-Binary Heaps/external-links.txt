@@ -1,0 +1,6 @@
+
+002 Heaps-Slides
+https://cs.slides.com/colt_steele/heaps
+
+004 Visualgo-Binary-Heap
+https://visualgo.net/en/heap

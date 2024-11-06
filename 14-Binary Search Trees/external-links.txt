@@ -1,0 +1,6 @@
+
+002 Trees-Slides
+https://cs.slides.com/colt_steele/trees
+
+004 Visualgo-Trees
+https://visualgo.net/en/bst
