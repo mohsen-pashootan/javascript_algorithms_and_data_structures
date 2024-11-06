@@ -1,0 +1,6 @@
+
+002 Stacks-Slides
+https://cs.slides.com/colt_steele/stacks
+
+006 Queues-Slides
+https://cs.slides.com/colt_steele/queues
